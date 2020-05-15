@@ -1,0 +1,5 @@
+/Users/ilyaletenkov/Projects/practica3/practica3/bin/Debug/practica3.exe
+/Users/ilyaletenkov/Projects/practica3/practica3/bin/Debug/practica3.pdb
+/Users/ilyaletenkov/Projects/practica3/practica3/obj/Debug/practica3.csprojAssemblyReference.cache
+/Users/ilyaletenkov/Projects/practica3/practica3/obj/Debug/practica3.exe
+/Users/ilyaletenkov/Projects/practica3/practica3/obj/Debug/practica3.pdb
